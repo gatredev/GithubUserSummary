@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GithubUserSummary", "GithubUserSummary\GithubUserSummary.csproj", "{6F5ED0A6-8F3D-454A-B295-BA699EE315A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubUserSummary.Data", "GithubUserSummary.Data\GithubUserSummary.Data.csproj", "{D77B9857-A9AF-4C23-9ECC-F82171E213E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{79131AB3-CC68-4D46-BBDC-036350E782E5}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F5ED0A6-8F3D-454A-B295-BA699EE315A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5ED0A6-8F3D-454A-B295-BA699EE315A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5ED0A6-8F3D-454A-B295-BA699EE315A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5ED0A6-8F3D-454A-B295-BA699EE315A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77B9857-A9AF-4C23-9ECC-F82171E213E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77B9857-A9AF-4C23-9ECC-F82171E213E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77B9857-A9AF-4C23-9ECC-F82171E213E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77B9857-A9AF-4C23-9ECC-F82171E213E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEAB5AAF-8504-4E71-8AA8-2914BE7EE831}
+	EndGlobalSection
+EndGlobal
